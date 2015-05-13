@@ -1,2 +1,9 @@
 # test-repo
 Test repository for The Data Scientist's Toolbox course.
+
+## This is a secondary heading
+### This is a tertiary heading
+
+* first item in list
+* second item in list
+* third item in list
